@@ -1,0 +1,32 @@
+.sidebar {
+    background-color: #31b0d5;
+    padding: 10px;
+}
+
+ul.actions {
+    list-style-type: none;
+
+}
+.task {
+    background-color: #31b0d5;
+    position: relative;
+    margin-bottom: 1em;
+    padding: 1.5em;
+}
+
+.task .created {
+    position: absolute;
+    bottom: 1.5em;
+    right: 1.5em;
+}
+
+.pad    {
+    padding : 20px;
+}
+.pl
+{
+    background-color: #31b0d5;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+}
